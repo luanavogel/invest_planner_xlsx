@@ -29,8 +29,6 @@ Funcionalidades:
 
 - Estimativa de dividendos
 
-- Comparação entre reinvestimento e não reinvestimento de dividendos
-
 
 Conceitos Utilizados:
 
