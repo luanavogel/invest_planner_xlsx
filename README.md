@@ -6,43 +6,43 @@ Planilha em Excel desenvolvida para simular investimentos mensais em Fundos Imob
 O projeto foi criado como parte de um desafio prático da plataforma DIO, com foco na aplicação de conceitos de Excel e finanças.
 
 
-Objetivo
+Objetivo:
 
 Auxiliar o usuário a:
 
-Simular aportes mensais
+- Simular aportes mensais
 
-Estimar patrimônio acumulado
+- Estimar patrimônio acumulado
 
-Calcular dividendos mensais
+- Calcular dividendos mensais
 
-Comparar cenários com e sem reinvestimento de dividendos
-
-
-Funcionalidades
-
-Sugestão de valor mensal a investir com base no salário
-
-Simulação para diferentes horizontes de tempo
-
-Cálculo de patrimônio acumulado
-
-Estimativa de dividendos
-
-Comparação entre reinvestimento e não reinvestimento de dividendos
+- Comparar cenários com e sem reinvestimento de dividendos
 
 
-Conceitos Utilizados
+Funcionalidades:
 
-Valor Futuro (FV)
+- Sugestão de valor mensal a investir com base no salário
 
-Rendimento médio mensal
+- Simulação para diferentes horizontes de tempo
 
-Juros compostos
+- Cálculo de patrimônio acumulado
 
-Dividendos
+- Estimativa de dividendos
+
+- Comparação entre reinvestimento e não reinvestimento de dividendos
 
 
-Observação
+Conceitos Utilizados:
+
+- Valor Futuro (FV)
+
+- Rendimento médio mensal
+
+- Juros compostos
+
+- Dividendos
+
+
+Observação:
 
 Ferramenta com finalidade educacional, não constituindo recomendação de investimento.
